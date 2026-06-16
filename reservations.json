@@ -1,0 +1,43 @@
+[
+    {
+        "id": "LT-2026-2653",
+        "fullName": "KALPESH DEORA",
+        "email": "kalpeshdeora1006@gmail.com",
+        "phone": "+919983721179",
+        "suite": "Leopard Trails Suite",
+        "checkIn": "2026-06-01",
+        "checkOut": "2026-06-03",
+        "nights": 2,
+        "guests": 2,
+        "dietary": "None specified",
+        "addons": [
+            {
+                "id": "private-safari",
+                "name": "Private Leopard Safari",
+                "price": 28000
+            },
+            {
+                "id": "cultural-walk",
+                "name": "Rabari Cultural Walk",
+                "price": 10000
+            },
+            {
+                "id": "ridge-trek",
+                "name": "Granite Ridge Trekking",
+                "price": 8000
+            },
+            {
+                "id": "stargazing",
+                "name": "Private Night Stargazing",
+                "price": 7500
+            }
+        ],
+        "specialRequests": "None specified",
+        "baseLodgingTotal": 160000,
+        "experiencesTotal": 53500,
+        "taxTotal": 38430,
+        "grandTotal": 251930,
+        "currency": "INR",
+        "timestamp": "2026-06-01T11:22:38.082Z"
+    }
+]

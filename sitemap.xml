@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url>
+    <loc>https://leopardtrailsjawai.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Service Pages -->
+  <url>
+    <loc>https://leopardtrailsjawai.com/leopard-safari.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/luxury-accommodation.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/rabari-cultural-walk.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/wilderness-dining.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/granite-ridge-trekking.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/safari-booking-guide.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/eco-resort-conservation.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Case Studies -->
+  <url>
+    <loc>https://leopardtrailsjawai.com/expeditions/leopard-hills-journal.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/expeditions/rabari-cultural-immersion.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/expeditions/canopy-stargazing-honeymoon.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Blog Home -->
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/complete-guide-jawai-leopard-safari.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/why-leopards-coexist-with-rabari-tribe.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/luxury-glamping-rajasthan-comparison.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/how-to-reach-jawai-travel-guide.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/what-to-pack-rajasthan-wildlife-safari.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/culinary-heritage-rajasthan-safari-dining.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/wildlife-photography-tips-jawai-leopards.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/comparing-ranthambore-vs-jawai-safari.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/geological-marvels-jawai-granite-hills.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://leopardtrailsjawai.com/blog/eco-tourism-conservation-efforts-jawai.html</loc>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /node_modules/
+Disallow: /concierge
+
+Sitemap: https://leopardtrailsjawai.com/sitemap.xml
